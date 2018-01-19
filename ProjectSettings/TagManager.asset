@@ -12,6 +12,9 @@ TagManager:
   - Torso
   - Arm
   - Leg
+  - SnapCube
+  - SnapCylinder
+  - SnapSaucer
   layers:
   - Default
   - TransparentFX
